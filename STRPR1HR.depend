@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1708967360 source:c:\c++\задания\strpr1hr\main.cpp
+	<iostream>
+	<clocale>
+	<fstream>
+	<iomanip>
+	<ctime>
+	<cstdio>
+	<cstring>
+
+1715377640 source:c:\c++\tasks\strpr1hr\main.cpp
+	"header.h"
+	"source.cpp"
+
+1712786003 c:\c++\tasks\strpr1hr\header.h
+	<iostream>
+	<functional>
+	<clocale>
+	<fstream>
+	<iomanip>
+	<ctime>
+	<cstdio>
+	<cstring>
+	<limits>
+	<windows.h>
+	<stdexcept>
+
+1715376018 c:\c++\tasks\strpr1hr\source.cpp
+	"header.h"
+
